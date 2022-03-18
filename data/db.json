@@ -1,28 +1,14 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "1st post",
-      "datetime": "July 16, 2021 11:47:39 AM",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-    },
-    {
-      "id": 2,
-      "title": "Second post",
-      "datetime": "July 16, 2021 11:47:48 AM",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. two"
-    },
-    {
-      "id": 3,
-      "title": "Number Three",
-      "datetime": "July 16, 2021 11:48:01 AM",
-      "body": "Third post... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-    },
-    {
-      "id": 4,
-      "title": "Testing a 4th post",
-      "datetime": "August 09, 2021 4:44:22 PM",
-      "body": "Some more testing words"
-    }
-  ]
+	"data": [
+		{ "id": 1, "postal_code": "368219", "longitude": 46.9788288, "latitude": 42.9612827, "place": "Chirkey" },
+		{ "id": 2, "postal_code": "8712", "longitude": 121.29146, "latitude": 5.87568, "place": "Kanlagay" },
+		{ "id": 3, "postal_code": "59215-000", "longitude": -35.4124355, "latitude": -6.4472391, "place": "Nova Cruz" },
+		{ "id": 4, "postal_code": "403930", "longitude": 109.799646, "latitude": 41.221015, "place": "Xidoupu" },
+		{ "id": 5, "postal_code": "34555 AM", "longitude": 105.729085, "latitude": 35.963912, "place": "Xieji" },
+		{ "id": 6, "postal_code": "373-0862", "longitude": 139.381182, "latitude": 36.2569423, "place": "Ōta" },
+		{ "id": 7, "postal_code": "55550-000", "longitude": -35.4562795, "latitude": -8.7393595, "place": "Água Preta" },
+		{ "id": 8, "postal_code": "4554-99", "longitude": 97.7525352, "latitude": 4.9623026, "place": "Idi Rayeuk" },
+		{ "id": 9, "postal_code": "CEE 3455", "longitude": 29.83333, "latitude": 46.23333, "place": "Kamyshevka Vtoraya" },
+		{ "id": 10, "postal_code": "04004 CEDEX", "longitude": 6.1717148, "latitude": 44.0527811, "place": "Digne-les-Bains" }
+	]
 }
