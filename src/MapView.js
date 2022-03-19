@@ -7,7 +7,8 @@ const MapView = () => {
 	const { searchResults, posts } = useContext(DataContext);
 	const { id } = useParams();
 
-	//zooming in only on the first element in search option
+	//zooming in only on the first element in search option to exact match
+	//because of search issue
 	const searchProps = {
 		posts: searchResults.length === posts.length || !searchResults.length ? searchResults : [searchResults[0]],
 		zoom: 11 - searchResults.length,
