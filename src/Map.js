@@ -25,7 +25,7 @@ const Map = ({ applyHeight, zoom, posts }) => {
 		<div style={{ width: '100%', height, position: 'relative' }}>
 			<GoogleMapReact
 				center={
-					posts.length == 1
+					posts.length === 1
 						? {
 								lat: posts[0].latitude,
 								lng: posts[0].longitude,
